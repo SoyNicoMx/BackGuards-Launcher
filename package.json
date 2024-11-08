@@ -2,7 +2,7 @@
     "name": "BackGuards-Launcher",
     "preductname": "BackGuards Launcher",
     "version": "2.0.0",
-    "description": "Launcher oficial de BackGuards",
+    "description": "Launcher oficial de BackGuards Studio",
     "main": "src/app.js",
     "author": {
         "name": "SoyNicoMx",
