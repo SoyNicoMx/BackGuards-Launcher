@@ -1,15 +1,15 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
-    "version": "2.0.7",
-    "description": "Launcher Mincraft pour le serveur Selvania",
+    "name": "BackGuards-Launcher",
+    "preductname": "BackGuards Launcher",
+    "version": "2.0.0",
+    "description": "Launcher oficial de BackGuards",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, Inc.",
-        "email": "contact@luuxis.fr",
-        "url": "https://github.com/luuxis"
+        "name": "SoyNicoMx",
+        "email": "backguards@outlook.com",
+        "url": "https://discord.gg/backguards"
     },
-    "url": "http://launcher.luuxis.fr",
+    "url": "http://backguards.x10.mx/",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
@@ -39,6 +39,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/SoyNicoMx/BackGuards-Launcher.git"
     }
 }
